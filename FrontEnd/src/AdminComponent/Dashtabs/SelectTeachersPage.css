@@ -1,0 +1,28 @@
+.teacher-table {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  .teacher-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .teacher-table th,
+  .teacher-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .teacher-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  .custom-paper {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background: #f0f0f0;
+  }
+  

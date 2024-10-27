@@ -1,0 +1,25 @@
+.RegLoginBanner{ 
+  mix-blend-mode:multiply;
+  width: 70%;
+  /* height: 100%; */
+  display: flex;
+  align-self: center;
+}
+
+.logo{
+    width: 20%;
+   
+}
+.input{
+  margin: 10px !important;
+  /* width: 150% !important; */
+}
+.main-container {
+    background: linear-gradient(to right, #d33e1d, #292276);
+  }
+  
+
+  *{
+    margin: 0;
+    padding: 0;
+  }
